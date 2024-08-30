@@ -1,5 +1,5 @@
 ## Descrição
-Este projeto é uma aplicação de gerenciamento de notas adesivas (Post-Its) desenvolvida como parte do trabalho de Engenharia de Software. A aplicação permite aos usuários criar, salvar e gerenciar notas com título, descrição e prazo.
+Este projeto é uma aplicação de gerenciamento de notas adesivas (Post-Its) desenvolvida como parte do trabalho de Engenharia de Software. A aplicação permite aos usuários criar, salvar e gerenciar notas com título, descrição e prazo. Para o desenvolvimento, utilizamos metodologias ágeis, combinando práticas de Scrum e Kanban para assegurar uma entrega eficiente e organizada.
 
 ## Tecnologias Utilizadas
 - *Linguagem de Programação:* Java
